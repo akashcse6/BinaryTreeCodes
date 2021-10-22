@@ -18,6 +18,7 @@ public class MyClass {
         else
         {
             return -1;
+#Return
         }
     }
     public static void main(String[] args)
